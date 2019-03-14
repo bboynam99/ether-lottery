@@ -1,7 +1,7 @@
 # Etherball 🎟
-[![Build Status](https://travis-ci.org/njaladan/Etherball.svg?branch=master)](https://travis-ci.org/njaladan/Etherball)
+[![Build Status](https://travis-ci.org/amisdex/ether-lottery.svg?branch=master)](https://travis-ci.org/amisdex/ether-lottery)
 
-Etherball is a simple lottery web app with numerical tickets and a fixed jackpot built for the Ethereum blockchain. The current link to use Etherball is https://lottery.now.sh, though this link is subject to change.
+Etherball is a simple lottery web app with numerical tickets and a fixed jackpot built for the Ethereum blockchain. The current link to use Ether-lottery is https://amisdex.github.io/Ether-lottery/src, though this link is subject to change.
 
 <p align="center">
   <img src="./img/demo.gif" height="80%" width="80%">
@@ -9,7 +9,7 @@ Etherball is a simple lottery web app with numerical tickets and a fixed jackpot
 
 
 ## Features
-Etherball features:
+Ether-lottery features:
 
  • Easy to purchase ticket interface (and prevention of duplicate tickets)  
 
@@ -69,4 +69,4 @@ Finally, to open the web app,
 
 ## Licensing
 
-Etherball is released under the terms of the MIT license. For more information, see https://opensource.org/licenses/MIT.
+Ether-lottery is released under the terms of the MIT license. For more information, see https://opensource.org/licenses/MIT.
